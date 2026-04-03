@@ -3,8 +3,6 @@ Multi-account AWS governance using Oraganizations and Service Control Policies (
 replace your-image-name.jpg with your actual filename):![Hierarchy Screenshot](./images/your-image-name.jpg)
 ## 📸 Project Evidence
 
-## 📸 Project Evidence
-
 ### 1. Governance Validation (Access Denied)
 ![Architecture Tree](./Screenshot%202026-04-04%20013813.jpg)
 
