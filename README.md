@@ -5,13 +5,13 @@ replace your-image-name.jpg with your actual filename):![Hierarchy Screenshot](.
 
 ## 📸 Project Evidence
 
-### 1. AWS Organization Hierarchy
+### 1. Governance Validation (Access Denied)
 ![Architecture Tree](./Screenshot%202026-04-04%20013813.jpg)
 
 ### 2. Service Control Policy (SCP) Logic
 ![SCP Code](./Screenshot%202026-04-04%20014245.jpg)
 
-### 3. Governance Validation (Access Denied)
+### 3. AWS Organization Hierarchy 
 ![Access Denied Proof](./Screenshot%202026-04-04%20014358.jpg)
 
 ### 4. Additional Proof/Organization Setup
