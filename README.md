@@ -11,9 +11,9 @@ replace your-image-name.jpg with your actual filename):![Hierarchy Screenshot](.
 ### 2. Service Control Policy (SCP) Logic
 ![SCP Code](./Screenshot%202026-04-04%20014245.jpg)
 
-### 3. AWS Organization Hierarchy 
+### 3. Service Control Policy (SCP) Logic
 ![Access Denied Proof](./Screenshot%202026-04-04%20014358.jpg)
 
-### 4. Additional Proof/Organization Setup
+### 4. AWS Organization Hierarchy 
 ![Additional Setup](./Screenshot%202026-04-04%20014431.jpg)
 
